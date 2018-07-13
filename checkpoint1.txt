@@ -1,0 +1,1 @@
+time complexity of the following code : O(n)
